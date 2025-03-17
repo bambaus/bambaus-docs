@@ -6,4 +6,4 @@ src = "src"
 title = "Bambaus"
 
 [build]
-build-dir = "docs"
+build-dir = "publish"
